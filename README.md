@@ -7,15 +7,35 @@ Este repositorio contiene notebooks y código fuente que acompañan mis tutorial
 ```
 youtube-tutorial-sources/
 ├── Notebooks/
+│   ├── Computer vision/
+│   │   └── RF-DETR/
+│   │       ├── Fine Tuning/
+│   │       │   └── Fine_Tunning_RF_DETR.ipynb
+│   │       └── Inference/
+│   │           └── RF-DETR_notebook.ipynb
 │   ├── Google AI/
+│   │   ├── Embeddings/
+│   │   │   ├── Embeddings.ipynb
+│   │   │   └── Google_AI_Embeddings_Tutorial.ipynb
+│   │   ├── Gemini/
+│   │   │   ├── API/
+│   │   │   │   └── Gemini_3_Tutorial_Completo.ipynb
+│   │   │   └── Tools/
+│   │   │       └── gemini_file_search_tutorial.ipynb
 │   │   ├── Gemma/
 │   │   │   └── Gemma_3_Inference.ipynb
 │   │   └── Vertex AI/
 │   │       └── VERTEX_AI_API.ipynb
-│   └── Microsoft AI/
-│       └── phi 4 multimodal/
-│           ├── phi4 - Azure inference.ipynb
-│           └── phi4 - HF inference.ipynb
+│   ├── Microsoft AI/
+│   │   └── phi 4 multimodal/
+│   │       ├── phi4 - Azure inference.ipynb
+│   │       └── phi4 - HF inference.ipynb
+│   ├── TTS/
+│   │   └── Qwen3_TTS_Tutorial.ipynb
+│   └── Utils/
+│       └── vscode_collab/
+│           ├── ollama_google_colab.ipynb
+│           └── vscode_colab_tutorial.ipynb
 └── README.md
 ```
 
